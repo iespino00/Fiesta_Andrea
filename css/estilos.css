@@ -6,6 +6,11 @@
 	box-sizing: border-box;
 }
 
+iframe {
+	max-width: 100%;
+	height: auto;
+   }
+
 body {
 	background: url('../img/background_kitty.png');
 	background-size: cover;
